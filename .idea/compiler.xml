@@ -25,6 +25,9 @@
         <module name="collection-master" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="collection-master" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
